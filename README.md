@@ -1,5 +1,4 @@
-# vvd-design-decisions
-Design Decisions for VMware Validated Designs
+# Design Decisions for VMware Validated Designs
 
 ![Rainpole](icon.png)
 
