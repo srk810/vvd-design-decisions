@@ -14,6 +14,7 @@ The set includes:
 
 * Standard Architecture
     * Management Domain (Dual-Region and Multi-AZ).
-    * Workload Domain - Virtual Infrastructure (Single-Region and Multi-AZ).
-    * Cloud Operations and Automation (Single-Region and Multi-AZ).
+    * Workload Domain - Virtual Infrastructure (Dual-Region and Multi-AZ).
+    * Tanzu Workload Domain (Single-Region)
+    * Cloud Operations and Automation (Dual-Region and Multi-AZ).
 
