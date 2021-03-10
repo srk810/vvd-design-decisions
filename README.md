@@ -2,7 +2,7 @@
 
 ![Rainpole](icon.png)
 
-# VMware Validated Design 6.1.0
+# VMware Validated Design 6.0
 
 With each release of the VMware Validated Designs, the Solutions Architecture team creates or updates the Design Decisions provided in the Architecture and Design sections of the documentation. 
 
